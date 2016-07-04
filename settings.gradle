@@ -1,0 +1,2 @@
+include ':app'
+'com.jakewharton:butterknife-compiler:8.1.0'
